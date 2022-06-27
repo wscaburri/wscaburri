@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wellington
-- 👀 I’m interested in Java and C#
-- 🌱 I’m currently learning Java and C#
+- 👀 I’m interested in 
+- 🌱 I’m currently learning C# and Java 
 
 <!---
 wscaburri/wscaburri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
